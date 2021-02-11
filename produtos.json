@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "60227d485d0902080fda6bc5"
+  },
+  "nome": "Nokia 6310i",
+  "descricao": "Original desbloqueado",
+  "preco": "39",
+  "imagem": "img00.jpg"
+},{
+  "_id": {
+    "$oid": "60227dd43d9d5c34a48c22e1"
+  },
+  "nome": "Tijolão 3310",
+  "descricao": "Nokia antigo",
+  "preco": "39",
+  "imagem": "img01.jpg"
+},{
+  "_id": {
+    "$oid": "60227e023d9d5c34a48c22e2"
+  },
+  "nome": "Siemens A40",
+  "descricao": "Celular da Xuxa",
+  "preco": "49",
+  "imagem": "img02.jpg"
+},{
+  "_id": {
+    "$oid": "60227e3a3d9d5c34a48c22e3"
+  },
+  "nome": "SonyEricsson W200",
+  "descricao": "Clássico",
+  "preco": "85",
+  "imagem": "img03.jpg"
+},{
+  "_id": {
+    "$oid": "60227e773d9d5c34a48c22e4"
+  },
+  "nome": "Celular V3",
+  "descricao": "Motorola antigo",
+  "preco": "70",
+  "imagem": "img04.jpg"
+},{
+  "_id": {
+    "$oid": "60227e993d9d5c34a48c22e5"
+  },
+  "nome": "StarTAC(1996)",
+  "descricao": "Motorola antigo",
+  "preco": "89",
+  "imagem": "img05.jpg"
+},{
+  "_id": {
+    "$oid": "60227ec43d9d5c34a48c22e6"
+  },
+  "nome": "SonyEricsson W380",
+  "descricao": "Relíquia",
+  "preco": "93",
+  "imagem": "img06.png"
+},{
+  "_id": {
+    "$oid": "60227ef53d9d5c34a48c22e7"
+  },
+  "nome": "C200(2003)",
+  "descricao": "Motorola antigo",
+  "preco": "79",
+  "imagem": "img07.jpg"
+},{
+  "_id": {
+    "$oid": "60227f1e3d9d5c34a48c22e8"
+  },
+  "nome": "Motorola Rokr E1(2005)",
+  "descricao": "Motorola antigo",
+  "preco": "70",
+  "imagem": "img08.webp"
+},{
+  "_id": {
+    "$oid": "60227f403d9d5c34a48c22e9"
+  },
+  "nome": "Celular Nokia 5200",
+  "descricao": "Destaque entre os populares",
+  "preco": "100",
+  "imagem": "img09.webp"
+},{
+  "_id": {
+    "$oid": "60227f673d9d5c34a48c22ea"
+  },
+  "nome": "Motorola V7",
+  "descricao": "Flip peculiar",
+  "preco": "86",
+  "imagem": "img10.webp"
+},{
+  "_id": {
+    "$oid": "60227fb03d9d5c34a48c22eb"
+  },
+  "nome": "SonyEricsson W580i",
+  "descricao": "Clássico SonyEricsson",
+  "preco": "129",
+  "imagem": "img11.webp"
+}]
